@@ -16,7 +16,7 @@
 -Interested in Fullstack Developer , Software Engineer , Data Engineer Roles
 -I worked as Software Engineer in Oxane Partners 
 
-Projects : 
+##Projects : 
 
 F45-Gym website : 
 
