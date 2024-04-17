@@ -18,7 +18,7 @@
 
 ##Projects : 
 
-F45-Gym website : 
+**F45-Gym website : **
 
 -The F45 Gym website is a dynamic and interactive platform built using a powerful combination of technologies the website offers a seamless user experience and a visually appealing design.
 
@@ -28,7 +28,7 @@ F45-Gym website :
 ![Screenshot 2023-11-21 211716](https://github.com/NamaniNikhil/NamaniNikhil/assets/42499175/6d1471c4-eee4-439b-86c4-b5d940493d43)
 
 
-Predicting Customer Churn for a Telecommunication Company          
+**Predicting Customer Churn for a Telecommunication Company **         
 
 -Customers churn is an everyday thing with telecom companies, although the percentage rate increased slightly following the pandemic. Our objective is in this project is to create a Machine Learning model that can predict weather a customer is likely to leave the telecom service or not’.In this notebook we are training multiple ML models with customer data from IBM Business Analytics Community. These data sets have all been tested with IBM Cognos Analytics.
 
