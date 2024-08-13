@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikhil Namani</h1>
+<h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A passionate Full Stack Developer and Looking for Data Engineer roles</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namaninikhil&label=Profile%20views&color=0e75b6&style=flat" alt="namaninikhil" /> </p>
